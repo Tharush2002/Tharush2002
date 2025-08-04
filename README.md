@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Trainee Software Engineer at Syigen Pvt Ltd.<br>🤝 I’m looking to collaborate on projects featuring Java-Springboot, Flutter, React and etc.<br>🌱 I’m currently learning MERN Stack.<br>💬 Reach out to me on Linkedin or tharusha1205@gmail.com.<br>⚡ Fun fact: Apart from coding I like to travel & read.
+🔭 I worked as a Trainee Software Engineer at Syigen Pvt Ltd.<br>🤝 I’m looking to collaborate on projects featuring Java-Springboot, Flutter, React and etc.<br>🌱 I’m currently learning MERN Stack.<br>💬 Reach out to me on Linkedin or tharusha1205@gmail.com.<br>⚡ Fun fact: Apart from coding I like to travel & read.
 <br>
 <br>
 <br>
